@@ -1,0 +1,19 @@
+.repeat-icon {
+    transform: rotate(90deg);
+}
+
+.board-controls{
+    display: flex;
+    flex-direction: column;
+}
+.board-layout-controls {
+    width: min-content;
+}
+  /* Responsive Styles */
+  @media screen and (max-width: 768px) {
+
+    .board-controls {
+        display: none;
+    }
+  }
+  

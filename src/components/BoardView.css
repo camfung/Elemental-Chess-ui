@@ -1,0 +1,4 @@
+.board-view-wrapper {
+    width: min-content;
+    margin: 0 0 0 var(--spacing-xxl);
+}

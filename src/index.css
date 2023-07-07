@@ -1,0 +1,27 @@
+/* index.css (or your preferred CSS file) */
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  margin: 0;
+  padding: 0;
+  background-color: rgb(49, 46, 43);
+}
+
+/* #root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  

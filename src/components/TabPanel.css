@@ -1,0 +1,13 @@
+.tab-pannel-wrapper{
+    width: 50%;
+    margin: var(--spacing-lg);
+    padding: var(--spacing-md);
+    background-color: rgb(39, 37, 34);
+    border-radius: 0.5rem;
+    box-shadow: 0 0.1rem 0.1rem 0 rgba(0,0,0,.2);
+}
+
+.tabs-wrapper {
+    display: flex;
+    justify-content: center;
+}
